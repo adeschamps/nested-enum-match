@@ -1,0 +1,6 @@
+[package]
+name = "nested-enum-match"
+version = "0.1.0"
+authors = ["Anthony Deschamps <anthony.j.deschamps@gmail.com>"]
+
+[dependencies]
